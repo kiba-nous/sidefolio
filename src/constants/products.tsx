@@ -1,20 +1,11 @@
-import sidefolioAceternity from "public/images/sidefolio-aceternity-2.png";
-import sidefolioAceternity2 from "public/images/sidefolio-aceternity-2.png";
-import sidefolioAlgochurn from "public/images/sidefolio-algochurn.png";
-import sidefolioAlgochurn2 from "public/images/sidefolio-algochurn.png";
-import sidefolioMoonbeam from "public/images/sidefolio-moonbeam.png";
-import sidefolioMoonbeam2 from "public/images/sidefolio-moonbeam-2.png";
-import sidefolioTailwindMasterKit from "public/images/sidefolio-tailwindmasterkit.png";
-import sidefolioTailwindMasterKit2 from "public/images/sidefolio-tailwindmasterkit-2.png";
-
 export const products = [
   {
     href: "https://github.com/syazwaninaqibah",
     title: "Jobified - AI Job Matching Platform",
     description:
       "Building AI-powered job match with upskilling and talent recommendation for jobseekers and recruiters.",
-    thumbnail: sidefolioAceternity,
-    images: [sidefolioAceternity, sidefolioAceternity2],
+    thumbnail: "/images/sidefolio-aceternity.png",
+    images: ["/images/sidefolio-aceternity.png", "/images/sidefolio-aceternity-2.png"],
     stack: ["AI", "Machine Learning", "Full-stack"],
     slug: "jobified",
     content: (
@@ -33,8 +24,8 @@ export const products = [
     title: "Quality Assurance Dashboard",
     description:
       "Data analysis and visualization dashboard for content moderation quality metrics and performance tracking.",
-    thumbnail: sidefolioAlgochurn,
-    images: [sidefolioAlgochurn, sidefolioAlgochurn2],
+    thumbnail: "/images/sidefolio-algochurn.png",
+    images: ["/images/sidefolio-algochurn.png", "/images/sidefolio-algochurn-2.png"],
     stack: ["Data Analysis", "Visualization", "Quality Control"],
     slug: "qa-dashboard",
     content: (
@@ -53,8 +44,8 @@ export const products = [
     title: "Persatuan Belia Harmoni",
     description:
       "Led academic and intellectualism initiatives as Head of Department, organizing educational programs and community outreach.",
-    thumbnail: sidefolioMoonbeam,
-    images: [sidefolioMoonbeam, sidefolioMoonbeam2],
+    thumbnail: "/images/sidefolio-moonbeam.png",
+    images: ["/images/sidefolio-moonbeam.png", "/images/sidefolio-moonbeam-2.png"],
     stack: ["Community Building", "Leadership", "Education"],
     slug: "belia-harmoni",
     content: (
@@ -73,8 +64,8 @@ export const products = [
     title: "Sawala - Social Movement",
     description:
       "Founded a social movement focused on human rights and religion, promoting dialogue and understanding across communities.",
-    thumbnail: sidefolioTailwindMasterKit,
-    images: [sidefolioTailwindMasterKit, sidefolioTailwindMasterKit2],
+    thumbnail: "/images/sidefolio-tailwindmasterkit.png",
+    images: ["/images/sidefolio-tailwindmasterkit.png", "/images/sidefolio-tailwindmasterkit-2.png"],
     stack: ["Social Impact", "Community Organizing", "Human Rights"],
     slug: "sawala",
     content: (
