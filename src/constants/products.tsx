@@ -9,121 +9,81 @@ import sidefolioTailwindMasterKit2 from "public/images/sidefolio-tailwindmasterk
 
 export const products = [
   {
-    href: "https://aceternity.com",
-    title: "Aceternity",
+    href: "https://github.com/syazwaninaqibah",
+    title: "Jobified - AI Job Matching Platform",
     description:
-      "A design and development studio that focuses on building quality apps.",
+      "Building AI-powered job match with upskilling and talent recommendation for jobseekers and recruiters.",
     thumbnail: sidefolioAceternity,
     images: [sidefolioAceternity, sidefolioAceternity2],
-    stack: ["Nextjs", "Tailwindcss"],
-    slug: "aceternity",
+    stack: ["AI", "Machine Learning", "Full-stack"],
+    slug: "jobified",
     content: (
       <div>
         <p>
-          Sit eiusmod ex mollit sit quis ad deserunt. Sint aliqua aliqua ullamco
-          dolore nulla amet tempor sunt est ipsum. Dolor laborum eiusmod
-          cupidatat consectetur velit ipsum. Deserunt nisi in culpa laboris
-          cupidatat elit velit aute mollit nisi. Officia ad exercitation laboris
-          non cupidatat duis esse velit ut culpa et.{" "}
+          Jobified is an innovative AI-powered platform that revolutionizes the job matching process by connecting jobseekers with relevant opportunities while providing personalized upskilling recommendations. The platform uses advanced machine learning algorithms to analyze skills, experience, and career aspirations.
         </p>
         <p>
-          Exercitation pariatur enim occaecat adipisicing nostrud adipisicing
-          Lorem tempor ullamco exercitation quis et dolor sint. Adipisicing sunt
-          sit aute fugiat incididunt nostrud consequat proident fugiat id.
-          Officia aliquip laborum labore eu culpa dolor reprehenderit eu ex enim
-          reprehenderit. Cillum Lorem veniam eu magna exercitation.
-          Reprehenderit adipisicing minim et officia enim et veniam Lorem
-          excepteur velit adipisicing et Lorem magna.
+          The system not only matches candidates with suitable positions but also identifies skill gaps and suggests targeted learning paths. For recruiters, it provides intelligent talent recommendations based on job requirements and company culture fit, streamlining the hiring process and improving match quality.
         </p>{" "}
       </div>
     ),
   },
   {
-    href: "https://algochurn.com",
-    title: "Algochurn",
+    href: "https://github.com/syazwaninaqibah",
+    title: "Quality Assurance Dashboard",
     description:
-      "Practice for technical interviews with hands on coding challenges.",
+      "Data analysis and visualization dashboard for content moderation quality metrics and performance tracking.",
     thumbnail: sidefolioAlgochurn,
     images: [sidefolioAlgochurn, sidefolioAlgochurn2],
-    stack: ["Nextjs", "Tailwindcss"],
-    slug: "algochurn",
+    stack: ["Data Analysis", "Visualization", "Quality Control"],
+    slug: "qa-dashboard",
     content: (
       <div>
         <p>
-          Sit eiusmod ex mollit sit quis ad deserunt. Sint aliqua aliqua ullamco
-          dolore nulla amet tempor sunt est ipsum. Dolor laborum eiusmod
-          cupidatat consectetur velit ipsum. Deserunt nisi in culpa laboris
-          cupidatat elit velit aute mollit nisi. Officia ad exercitation laboris
-          non cupidatat duis esse velit ut culpa et.{" "}
+          Developed a comprehensive quality assurance dashboard to track and analyze content moderation performance metrics. The dashboard provides real-time insights into accuracy rates, processing times, and trend analysis for content review operations.
         </p>
         <p>
-          Exercitation pariatur enim occaecat adipisicing nostrud adipisicing
-          Lorem tempor ullamco exercitation quis et dolor sint. Adipisicing sunt
-          sit aute fugiat incididunt nostrud consequat proident fugiat id.
-          Officia aliquip laborum labore eu culpa dolor reprehenderit eu ex enim
-          reprehenderit. Cillum Lorem veniam eu magna exercitation.
-          Reprehenderit adipisicing minim et officia enim et veniam Lorem
-          excepteur velit adipisicing et Lorem magna.
+          Features include automated reporting, performance benchmarking, and predictive analytics to identify potential quality issues before they impact operations. The system has been instrumental in improving team efficiency and maintaining high standards in content moderation processes.
         </p>{" "}
       </div>
     ),
   },
   {
-    href: "https://gomoonbeam.com",
-    title: "Moonbeam",
+    href: "https://github.com/syazwaninaqibah",
+    title: "Persatuan Belia Harmoni",
     description:
-      "Never write from scratch again with Moonbeam, your AI first writing tool",
+      "Led academic and intellectualism initiatives as Head of Department, organizing educational programs and community outreach.",
     thumbnail: sidefolioMoonbeam,
     images: [sidefolioMoonbeam, sidefolioMoonbeam2],
-    stack: ["Nextjs", "Tailwindcss"],
-    slug: "moonbeam",
+    stack: ["Community Building", "Leadership", "Education"],
+    slug: "belia-harmoni",
     content: (
       <div>
         <p>
-          Sit eiusmod ex mollit sit quis ad deserunt. Sint aliqua aliqua ullamco
-          dolore nulla amet tempor sunt est ipsum. Dolor laborum eiusmod
-          cupidatat consectetur velit ipsum. Deserunt nisi in culpa laboris
-          cupidatat elit velit aute mollit nisi. Officia ad exercitation laboris
-          non cupidatat duis esse velit ut culpa et.{" "}
+          As Head of Department for Persatuan Belia Harmoni, I spearheaded various academic and intellectual initiatives aimed at empowering youth through education and community engagement. The programs focused on developing critical thinking, leadership skills, and social awareness among participants.
         </p>
         <p>
-          Exercitation pariatur enim occaecat adipisicing nostrud adipisicing
-          Lorem tempor ullamco exercitation quis et dolor sint. Adipisicing sunt
-          sit aute fugiat incididunt nostrud consequat proident fugiat id.
-          Officia aliquip laborum labore eu culpa dolor reprehenderit eu ex enim
-          reprehenderit. Cillum Lorem veniam eu magna exercitation.
-          Reprehenderit adipisicing minim et officia enim et veniam Lorem
-          excepteur velit adipisicing et Lorem magna.
+          Organized workshops, seminars, and community outreach programs that reached hundreds of young people across Malaysia. The initiatives included academic support programs, leadership development workshops, and social impact projects that addressed local community needs.
         </p>{" "}
       </div>
     ),
   },
   {
-    href: "https://tailwindmasterkit.com",
-    title: "Tailwind Master Kit",
+    href: "https://github.com/syazwaninaqibah",
+    title: "Sawala - Social Movement",
     description:
-      "A beautiful and comprehensive Tailwind CSS components library for building modern websites and applications.",
+      "Founded a social movement focused on human rights and religion, promoting dialogue and understanding across communities.",
     thumbnail: sidefolioTailwindMasterKit,
     images: [sidefolioTailwindMasterKit, sidefolioTailwindMasterKit2],
-    stack: ["Nextjs", "Tailwindcss"],
-    slug: "tailwindmasterkit",
+    stack: ["Social Impact", "Community Organizing", "Human Rights"],
+    slug: "sawala",
     content: (
       <div>
         <p>
-          Sit eiusmod ex mollit sit quis ad deserunt. Sint aliqua aliqua ullamco
-          dolore nulla amet tempor sunt est ipsum. Dolor laborum eiusmod
-          cupidatat consectetur velit ipsum. Deserunt nisi in culpa laboris
-          cupidatat elit velit aute mollit nisi. Officia ad exercitation laboris
-          non cupidatat duis esse velit ut culpa et.{" "}
+          Sawala is a social movement I founded in 2020 to promote dialogue and understanding around human rights and religious freedom. The movement focuses on creating safe spaces for meaningful conversations about social justice, equality, and religious tolerance.
         </p>
         <p>
-          Exercitation pariatur enim occaecat adipisicing nostrud adipisicing
-          Lorem tempor ullamco exercitation quis et dolor sint. Adipisicing sunt
-          sit aute fugiat incididunt nostrud consequat proident fugiat id.
-          Officia aliquip laborum labore eu culpa dolor reprehenderit eu ex enim
-          reprehenderit. Cillum Lorem veniam eu magna exercitation.
-          Reprehenderit adipisicing minim et officia enim et veniam Lorem
-          excepteur velit adipisicing et Lorem magna.
+          Through various initiatives including community forums, educational workshops, and advocacy campaigns, Sawala has worked to bridge divides and promote mutual understanding across different communities. The movement emphasizes the importance of respectful dialogue in addressing complex social issues.
         </p>{" "}
       </div>
     ),

@@ -10,9 +10,9 @@ import { motion } from "framer-motion";
 import About from "@/components/About";
 
 export const metadata: Metadata = {
-  title: "About | John Doe",
+  title: "About | Syazwani Naqibah",
   description:
-    "John Doe is a developer, writer and speaker. He is a digital nomad and travels around the world while working remotely.",
+    "Innovation-driven professional with 4+ years of experience in quality assurance, data analysis, and ethical tech. Looking for opportunities in product design, ethical AI, smart cities, and building tech that empowers communities.",
 };
 
 export default function AboutPage() {
